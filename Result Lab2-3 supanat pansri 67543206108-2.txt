@@ -1,0 +1,56 @@
+Case1:
+Enter a string to split: I/Love/You
+Split results:
+str2[0] = "I"
+str2[1] = "Love"
+str2[2] = "You"
+Total parts: 3
+Case2:
+Enter a string to split: Hello World From Me
+Split results:   
+str2[0] = "Hello"
+str2[1] = "World"
+str2[2] = "From" 
+str2[3] = "Me"   
+Total parts: 4
+Case3:
+Enter a string to split: I///Love//You/
+Split results:
+str2[0] = "I"
+str2[1] = "Love"
+str2[2] = "You"
+Total parts: 3
+Case4:
+Enter a string to split: Apple,Orange,Banana,Grapes
+Split results:
+str2[0] = "Apple"
+str2[1] = "Orange"
+str2[2] = "Banana"
+str2[3] = "Grapes"
+Total parts: 4
+Case5:
+Enter a string to split: 
+Split results:
+Total parts: 0
+Case6:
+Enter a string to split: January-February-March-April
+Split results:
+str2[0] = "January"
+str2[1] = "February"
+str2[2] = "March"
+str2[3] = "April"
+Total parts: 4
+Case7:
+Enter a string to split: key:value:key2:value2
+Split results:
+str2[0] = "key"
+str2[1] = "value"
+str2[2] = "key2"
+str2[3] = "value2"
+Total parts: 4
+Case8:
+Enter a string to split:    Hello   World   
+Split results:
+str2[0] = "Hello"
+str2[1] = "World"
+Total parts: 2
