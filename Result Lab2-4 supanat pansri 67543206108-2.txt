@@ -1,0 +1,45 @@
+Case1:
+Enter a string to split:    Hello  World  From Me 
+Split results:
+str2[0] = "Hello"
+str2[1] = "World"
+str2[2] = "From"
+str2[3] = "Me"
+Total parts: 4
+Case2:
+Enter a string to split: Apple,,Orange,Banana,,Grapes
+Split results:
+str2[0] = "Apple"
+str2[1] = "Orange"
+str2[2] = "Banana"
+str2[3] = "Grapes"
+Total parts: 4
+Case3:
+Enter a string to split: key:value:key2:value2
+Split results:
+str2[0] = "key"
+str2[1] = "value"
+str2[2] = "key2"
+str2[3] = "value2"
+Total parts: 4
+Case4:
+Enter a string to split: apple-orange!banana*grapes
+Split results:
+str2[0] = "apple"
+str2[1] = "orange"
+str2[2] = "banana"
+str2[3] = "grapes"
+Total parts: 4
+Case5:
+Enter a string to split: fruit_apple friut_orange fruit_banana
+Split results:
+str2[0] = "fruit_apple"
+str2[1] = "friut_orange"
+str2[2] = "fruit_banana"
+Total parts: 3
+Case6:
+Enter a string to split: ,,   ,Hello, World!   , ,
+Split results:
+str2[0] = "Hello"
+str2[1] = "World"
+Total parts: 2
