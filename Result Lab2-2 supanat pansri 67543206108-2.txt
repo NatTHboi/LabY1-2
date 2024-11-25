@@ -1,0 +1,12 @@
+Case1:
+Enter a word:   Hello    World  !
+Reversed word: !  dlroW    olleH
+Case2:
+Enter a word: Hello @World! 123
+Reversed word: 321 !dlroW@ olleH
+Case3:
+Enter a word: 123456789
+Reversed word: 987654321
+Case4:
+Enter a word: The quick  brown    fox
+Reversed word: xof    nworb  kciuq ehT
