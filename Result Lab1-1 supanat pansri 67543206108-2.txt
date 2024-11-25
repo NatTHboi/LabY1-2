@@ -1,0 +1,12 @@
+Case1:
+Enter the number of the loop : 5
+[1] Hello world 
+[2] Hello world
+[3] Hello world
+[4] Hello world
+[5] Hello world
+Case2:
+Enter the number of the loop : 3
+[1] Hello world 
+[2] Hello world
+[3] Hello world
