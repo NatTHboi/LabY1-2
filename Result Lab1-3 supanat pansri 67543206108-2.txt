@@ -1,0 +1,24 @@
+Case1:
+Enter the number of elements: 3
+Enter 3 elements:
+Element 1: 10
+Element 2: 20
+Element 3: 30
+You entered:
+data[0] = 10
+data[1] = 20
+data[2] = 30
+Case2:
+Enter the number of elements: 5
+Enter 5 elements:
+Element 1: 1
+Element 2: 2
+Element 3: 3
+Element 4: 4
+Element 5: 5
+You entered:
+data[0] = 1
+data[1] = 2
+data[2] = 3
+data[3] = 4
+data[4] = 5
