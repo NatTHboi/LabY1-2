@@ -1,0 +1,21 @@
+Case1:
+Enter a word: I Love You
+Reversed word: uoY evoL I
+Case2:
+Enter a word: Hello World
+Reversed word: dlroW olleH
+Case3:
+Enter a word: Program
+Reversed word: margorP
+Case4:
+Enter a word: This is a test  
+Reversed word: tset a si sihT
+Case5:
+Enter a word: Hello@World!
+Reversed word: !dlroW@olleH
+Case6:
+Enter a word: 12345
+Reversed word: 54321
+Case7:
+Enter a word: This is a long sentence to test the function.
+Reversed word: .noitcnuf eht tset ot ecnetnes gnol a si sihT
