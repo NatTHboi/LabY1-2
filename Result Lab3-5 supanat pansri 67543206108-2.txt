@@ -1,0 +1,68 @@
+Case1:
+Enter the number of rooms (max 20): 1
+
+Entering data for room 1:
+Student 1:
+  Name: L blue boy
+  Age: 19
+Student 2:
+  Name: St
+  Age: 19
+Student 3:
+  Name: Lene
+  Age: 19
+Student 4:
+  Name: BrownBird
+  Age: 41
+Student 5:
+  Name: WhiteBird
+  Age: 41
+Student 6:
+  Name: brbrbrbirds
+  Age: 20
+Student 7:
+  Name: MochiKung
+  Age: 10
+Student 8:
+  Name: Lemonna
+  Age: 23
+Student 9:
+  Name: Canekung
+  Age: 19
+Student 10:
+  Name: GenePP
+  Age: 25
+
+Enter 1 to view student information, or 0 to exit: 1
+
+Room 1:
+  Student 1:
+    Name: L blue boy
+    Age: 19
+  Student 2:
+    Name: St
+    Age: 19
+  Student 3:
+    Name: Lene
+    Age: 19
+  Student 4:
+    Name: BrownBird
+    Age: 41
+  Student 5:
+    Name: WhiteBird
+    Age: 41
+  Student 6:
+    Name: brbrbrbirds
+    Age: 20
+  Student 7:
+    Name: MochiKung
+    Age: 10
+  Student 8:
+    Name: Lemonna
+    Age: 23
+  Student 9:
+    Name: Canekung
+    Age: 19
+  Student 10:
+    Name: GenePP
+    Age: 25
