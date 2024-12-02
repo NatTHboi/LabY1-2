@@ -1,0 +1,25 @@
+Case1:
+Enter the sex (M/F): M
+Enter the GPA: 3.00
+Updated GPA: 3.30
+Case2:
+Enter the sex (M/F): F
+Enter the GPA: 4.00
+Updated GPA: 4.00
+Case3:
+Enter the sex (M/F): M
+Enter the GPA: 0.00
+Updated GPA: 0.00
+Case4:
+Enter the sex (M/F): M
+Enter the GPA: 4.00
+Updated GPA: 4.00
+Case5:
+Enter the sex (M/F): O
+Enter the GPA: 3.50
+Invalid sex entered. No changes to GPA.
+Updated GPA: 3.50
+Case6:
+Enter the sex (M/F): F 
+Enter the GPA: 2.58
+Updated GPA: 3.10
