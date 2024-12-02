@@ -1,0 +1,170 @@
+Case1:
+Enter the number of rooms (max 20): 2
+
+Entering data for room 1:
+Student 1:
+  Name: a
+  Age: 18
+Student 2:
+  Name: b
+  Age: 19
+Student 3:
+  Name: c
+  Age: 22
+Student 4:
+  Name: d
+  Age: 21
+Student 5:
+  Name: e
+  Age: 25
+Student 6:
+  Name: f
+  Age: 18
+Student 7:
+  Name: g
+  Age: 19
+Student 8:
+  Name: h
+  Age: 22
+Student 9:
+  Name: i
+  Age: 24
+Student 10:
+  Name: j    
+  Age: 18
+
+Entering data for room 2:
+Student 1:
+  Name: k
+  Age: 16
+Student 2:
+  Name: l
+  Age: 19
+Student 3:
+  Name: m
+  Age: 20
+Student 4:
+  Name: n
+  Age: 21
+Student 5:
+  Name: o
+  Age: 25
+Student 6:
+  Name: p
+  Age: 27
+Student 7:
+  Name: q
+  Age: 21
+Student 8:
+  Name: r
+  Age: 22
+Student 9:
+  Name: h
+  Age: 21
+Student 10:
+  Name: t
+  Age: 22
+
+Enter 1 to view student information, or 0 to exit: 1
+
+Room 1:
+  Student 1:
+    Name: a
+    Age: 18
+  Student 2:
+    Name: b
+    Age: 19
+  Student 3:
+    Name: c
+    Age: 22
+  Student 4:
+    Name: d
+    Age: 21
+  Student 5:
+    Name: e
+    Age: 25
+  Student 6:
+    Name: f
+    Age: 18
+  Student 7:
+    Name: g
+    Age: 19
+  Student 8:
+    Name: h
+    Age: 22
+  Student 9:
+    Name: i
+    Age: 24
+  Student 10:
+    Name: j
+    Age: 18
+
+Room 2:
+  Student 1:
+    Name: k
+    Age: 16
+  Student 2:
+    Name: l
+    Age: 19
+  Student 3:
+    Name: m
+    Age: 20
+  Student 4:
+    Name: n
+    Age: 21
+  Student 5:
+    Name: o
+    Age: 25
+  Student 6:
+    Name: p
+    Age: 27
+  Student 7:
+    Name: q
+    Age: 21
+  Student 8:
+    Name: r
+    Age: 22
+  Student 9:
+    Name: h
+    Age: 21
+  Student 10:
+    Name: t
+    Age: 22
+
+Case2:
+Enter the number of rooms (max 20): 1
+
+Entering data for room 1:
+Student 1:
+  Name: squizzy
+  Age: 21  
+Student 2:
+  Name: fluffy
+  Age: 20
+Student 3:
+  Name: wolbba 
+  Age: 20
+Student 4:
+  Name: Catkung
+  Age: 23
+Student 5:
+  Name: woaf
+  Age: 18
+Student 6:
+  Name: kitto
+  Age: 19
+Student 7:
+  Name: beep
+  Age: 23
+Student 8:
+  Name: SirPencil
+  Age: 33
+Student 9:
+  Name: Treery
+  Age: 30
+Student 10:
+  Name: Megalon
+  Age: 19
+
+Enter 1 to view student information, or 0 to exit: 0
+Exiting without displaying information.
