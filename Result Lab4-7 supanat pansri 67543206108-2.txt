@@ -1,0 +1,4 @@
+Case1:
+Name: Alice, Age: 20, GPA: 3.50
+Name: Bob, Age: 22, GPA: 3.80    
+Name: Charlie, Age: 21, GPA: 3.70
